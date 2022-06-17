@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Poink1006
-- 👀 I’m interested in Tensorflow Lite and Arduino  
-- 🌱 I’m currently learning BS Mechatronics Engineering
-- 💞️ I’m looking to collaborate on app development and guides to learn more on my said interest above.
+- 👀 I’m am a seld-learned Web Development practitioner 
+- 🌱 I graduated BS Mechatronics Engineering in Saint Louis University with a latin honor of Cum Laude.
+- 💞️ I’m looking to network with others to collaborate with passionate projects and start ups.
 - 📫 How to reach me email:daniel1006ang@gmail.com
 
 <!---
