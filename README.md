@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Poink1006
-- 👀 I’m am a seld-learned Web Development practitioner 
+- 👋 Hi, I’m Daniel Victor Ang
+- 👀 I’m am a self-learned Web Development practitioner 
 - 🌱 I graduated BS Mechatronics Engineering in Saint Louis University with a latin honor of Cum Laude.
 - 💞️ I’m looking to network with others to collaborate with passionate projects and start ups.
 - 📫 How to reach me email:daniel1006ang@gmail.com
